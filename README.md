@@ -1,4 +1,4 @@
-# 🚀 GOAL-TRACKER
+# 🚀 GOAL-MARK 
 
 ![Project Logo](glogo.png)
 
@@ -8,7 +8,7 @@
 
 --📖 Introduction
 
-The Goal Tracker Dashboard is a multipage React web application designed to help users create, manage, and track their personal goals and habits. It provides a clean, responsive interface where users can monitor active goals, view progress, track streaks, earn XP, and manage completed goals in an organized dashboard. This app is ideal for anyone looking to improve productivity, stay consistent with habits, and visually track their progress over time.
+The Goal Mark Dashboard is a multipage React web application designed to help users create, manage, and track their personal goals and habits. It provides a clean, responsive interface where users can monitor active goals, view progress, track streaks, earn XP, and manage completed goals in an organized dashboard. This app is ideal for anyone looking to improve productivity, stay consistent with habits, and visually track their progress over time.
 
 ✨ Key Features
   ✔ Goal Management (CRUD) – Create, edit, delete, and view goals with categories, types, and target progress.
