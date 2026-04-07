@@ -1,0 +1,79 @@
+{
+  "title": "کټګورۍ",
+  "subtitle": "خپل هدفونه په کټګوریو کې تنظیم کړئ او اړوند هدفونه په اسانۍ سره ومومئ.",
+
+  "actions": {
+    "overview": "عمومي کتنه",
+    "newCategory": "نوې کټګوري",
+    "createCategory": "کټګوري جوړه کړئ"
+    
+  },
+
+  "stats": {
+    "totalCategories": "ټولې کټګورۍ",
+    "totalGoals": "ټول هدفونه",
+    "completedGoals": "بشپړ شوي هدفونه",
+    "mostActive": "تر ټولو فعال"
+  },
+
+  "empty": {
+    "title": "تر اوسه هېڅ کټګوري نشته",
+    "subtitle": "د خپلو هدفونو د تنظیم لپاره کټګورۍ جوړې کړئ."
+  },
+
+  "charts": {
+    "comparison": "د کټګوریو پرتله",
+    "avgProgress": "منځنی پرمختګ: {{value}}٪",
+    "progress": "پرمختګ",
+    "categoryLabel": "کټګوري: {{name}}",
+    "contribution": "د پرمختګ ونډه"
+  },
+
+  "list": {
+    "title": "ټولې کټګورۍ"
+  },
+
+  "delete": {
+    "title": "ایا دا کټګوري حذف کړئ؟",
+    "message": "دا کټګوري او اړوند هدفونه به حذف شي."
+  },
+
+  "card": {
+    "goals": "{{count}} هدفونه",
+    "completed": "{{count}} بشپړ شوي",
+    "progress": "{{value}}٪",
+    "viewGoals": "هدفونه وګورئ",
+    "edit": "سمول",
+    "tooltips": {
+      "edit": "کټګوري سمول",
+      "delete": "کټګوري حذف کول"
+    }
+  },
+
+  "form": {
+    "createTitle": "نوې کټګوري جوړول",
+    "editTitle": "کټګوري سمول",
+
+    "fields": {
+      "name": "نوم",
+      "color": "رنګ",
+      "icon": "آیکون (نوم)"
+    },
+
+    "helper": {
+      "color": "د دې کټګورۍ لپاره رنګ وټاکئ",
+      "icon": "تاسو کولی شئ  'folder'  پرېږدئ یا د آیکون نوم ولیکئ"
+    },
+
+    "actions": {
+      "cancel": "لغوه",
+      "create": "جوړول",
+      "save": "ساتل"
+    },
+
+    "validation": {
+      "required": "نوم اړین دی",
+      "duplicate": "دا کټګوري مخکې شتون لري"
+    }
+  }
+}

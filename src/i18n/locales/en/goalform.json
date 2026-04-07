@@ -1,0 +1,84 @@
+{
+  "title": {
+    "create": "Create Goal",
+    "edit": "Edit Goal"
+  },
+  "subtitle": {
+    "create": "Add a new goal and start tracking progress.",
+    "edit": "Update your goal details."
+  },
+
+  "fields": {
+    "title": "Title",
+    "category": "Category",
+    "type": "Goal Type",
+    "target": "Target",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "deadline": "Deadline",
+    "startTime": "Start Time",
+    "endTime": "End Time",
+    "icon": "Icon",
+    "color": "Color",
+    "notes": "Notes"
+  },
+
+  "types": {
+    "daily": "Daily",
+    "count": "Count",
+    "time": "Time"
+  },
+
+  "sections": {
+    "customizeTitle": "Customize your Goal",
+    "customizeSubtitle": "Optional settings for customizing your goal."
+  },
+
+  "actions": {
+    "submit": "Create Goal",
+    "cancel": "Cancel",
+    "editGoal": "Edit Goal"
+  },
+
+  "validation": {
+    "titleRequired": "Title is required",
+    "categoryRequired": "Category is required",
+    "typeRequired": "Goal type is required",
+    "targetRequired": "Target is required",
+    "targetMin": "Target must be at least 1",
+
+    "startDateRequired": "Start date is required",
+    "endDateRequired": "End date is required",
+    "deadlineRequired": "Deadline is required",
+
+    "startAfterDeadline": "Start date cannot be after deadline",
+    "startAfterEnd": "Start date cannot be after end date",
+
+    "endBeforeStart": "End date cannot be before start date",
+    "endBeforeDeadline": "End date cannot be before deadline",
+
+    "deadlineBeforeStart": "Deadline cannot be before start date",
+    "deadlineAfterEnd": "Deadline cannot be after end date"
+  },
+
+  "preview": {
+    "title": "Preview",
+    "noTitle": "Your goal title..."
+  },
+  "tips": {
+    "title": "Tips",
+    "tip1": "Make your goal specific",
+    "tip2": "Set realistic targets",
+    "tip3": "Stay consistent daily"
+  },
+
+  "reminder": {
+      "title": "Reminder",
+      "subtitle": "Enable reminders to stay consistent with your goal.",
+      "label": "Reminder Time",
+      "errorRequired": "Please select a reminder time",
+      "helperDisabled": "Enable reminder to choose time",
+      "helperEnabled": "Select when you want to be reminded"
+    }
+
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Completed Goals Archive",
+  "subtitle": "Review your achievements and restore your archived goals.",
+
+  "actions": {
+    "restoreAll": "Restore All",
+    "clearArchive": "Clear Archive",
+    "restore": "Restore",
+    "delete": "Delete"
+
+  },
+
+  "stats": {
+    "archived": "Archived Goals",
+    "deleted": "Deleted Goals",
+    "lastCompleted": "Last Completed",
+    "restored": "Restored Goals"
+  },
+
+  "search": {
+    "title": "Search & Filter",
+    "placeholder": "Search archived or deleted goals..."
+  },
+
+  "sort": {
+    "label": "Sort by",
+    "newest": "Newest",
+    "oldest": "Oldest"
+  },
+
+  "tabs": {
+    "all": "All",
+    "archived": "Archived",
+    "deleted": "Deleted"
+  },
+
+  "card": {
+  "completedOn": "Completed on",
+  "createdOn": "Created on",
+  "category": "Category",
+  "progress": "Progress",
+  "categoryValue": "Category: {{category}}",
+  "typeValue": "Type: {{type}}",
+  "completedAt": "Completed at: {{date}}",
+  "deletedAt": "Deleted at: {{date}}"
+ },
+
+  "empty": {
+    "title": "No archived or deleted goals"
+  },
+
+  "count": "{{count}} Goals",
+
+  "delete": {
+    "title": "Delete \"{{title}}\" permanently?",
+    "message": "This action cannot be undone."
+  }
+}

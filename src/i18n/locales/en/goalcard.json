@@ -1,0 +1,27 @@
+{
+  "subtitle": "Track & manage this goal",
+  "status": {
+    "active": "ACTIVE",
+    "paused": "PAUSED",
+    "completed": "COMPLETED"
+  },
+  "type": {
+    "daily": "Daily",
+    "count": "Count",
+    "time": "Time"
+  },
+  "target": "Target: {{target}}",
+  "progress": "Progress: {{progress}} / {{target}} {{unit}}",
+  "complete": "{{percent}}% complete",
+  "start": "Start",
+  "end": "End",
+  "deadline": "Deadline",
+  "logs": "Logs",
+  "actions": {
+    "details": "Goal Details",
+    "progress": "Progress",
+    "pause": "Pause",
+    "resume": "Resume",
+    "delete": "Delete"
+  }
+}

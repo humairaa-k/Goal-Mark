@@ -1,0 +1,10 @@
+{
+  "title": " Page Not Found",
+  "subtitle": "Oops! The page or goal you're looking for doesn’t exist or may have been removed",
+
+  "actions": {
+    "home": " Go Home",
+    "back": "Back to Goals"
+  } 
+
+}

@@ -1,0 +1,57 @@
+{
+  "title": "د بشپړ شوو هدفونو آرشیف",
+  "subtitle": "خپلې لاسته راوړنې وګورئ او آرشیف شوي هدفونه بېرته راوړئ.",
+
+  "actions": {
+    "restoreAll": "ټول بېرته راوړئ",
+    "clearArchive": "آرشیف پاک کړئ",
+    "restore": "بېرته راولئ",
+    "delete": "حذف"
+  },
+
+  "stats": {
+    "archived": "آرشیف شوي هدفونه",
+    "deleted": "حذف شوي هدفونه",
+    "lastCompleted": "وروستی بشپړ شوی",
+    "restored": "بېرته راستانه شوي هدفونه"
+  },
+
+  "search": {
+    "title": "لټون او فلټر",
+    "placeholder": "آرشیف یا حذف شوي هدفونه وپلټئ..."
+  },
+
+  "sort": {
+    "label": "ترتیب",
+    "newest": "تر ټولو نوي",
+    "oldest": "تر ټولو زاړه"
+  },
+
+  "tabs": {
+    "all": "ټول",
+    "archived": "آرشیف شوي",
+    "deleted": "حذف شوي"
+  },
+
+  "card": {
+    "completedOn": "د بشپړېدو نېټه",
+    "createdOn": "د جوړېدو نېټه",
+    "category": "کټګوري",
+    "progress": "پرمختګ",
+    "categoryValue": "کټګوري: {{category}}",
+    "typeValue": "ډول: {{type}}",
+    "completedAt": "بشپړ شوی په: {{date}}",
+    "deletedAt": "حذف شوی په: {{date}}"
+  },
+
+  "empty": {
+    "title": "دلته هیڅ آرشیف یا حذف شوي هدفونه نشته"
+  },
+
+  "count": "{{count}} هدفونه",
+
+  "delete": {
+    "title": "ایا غواړئ \"{{title}}\" د تل لپاره حذف کړئ؟",
+    "message": "دا عمل بېرته نه راګرځي."
+  }
+}

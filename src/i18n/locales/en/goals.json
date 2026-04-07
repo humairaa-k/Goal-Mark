@@ -1,0 +1,43 @@
+{
+   
+    "title": "All Goals",
+    "subtitle": "Manage, track and prioritize your goals.",
+    "newGoal": "New Goal",
+    "viewDashboard": "View Dashboard",
+
+    "stats": {
+      "total": "Total Goals",
+      "active": "Active",
+      "completed": "Completed",
+      "overallProgress": "Overall Progress"
+    },
+
+    "search": {
+      "title": "Search & Filter",
+      "placeholder": "Search goals by title..."
+    },
+
+    "sort": {
+      "label": "Sort by",
+      "sort": "Sort",
+      "progress": "Progress %",
+      "newest": "Newest",
+      "category": "Category"
+    },
+
+    "empty": {
+      "title": "No goals to show",
+      "subtitle": "Click \"New Goal\" to create your first goal!"
+    },
+
+    "count": "{{count}} Goals",
+
+    "categoryTitle": "{{category}} Goals",
+
+    "delete": {
+      "title": "Delete \"{{title}}\"?",
+      "message": "Your goal will move to trash bin."
+    }
+  }
+
+

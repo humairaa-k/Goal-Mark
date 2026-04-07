@@ -1,0 +1,34 @@
+{
+ "sidebar": {
+  "dashboard": "ډشبورډ",
+  "pages": "پاڼې",
+  "goals": "ټول هدفونه",
+  "newGoal": "نوی هدف",
+  "categories": "کټګورۍ",
+  "archive": "ارشیف",
+  "settings": "تنظیمات"
+  },
+  "actions": {
+    "create": "جوړول",
+    "read": "کتل",
+    "update": "سمول",
+    "delete": "پاکول",
+    "save": "ساتل",
+    "cancel": "لغوه کول",
+    "search": "پلټنه",
+    "sort": "ترتیب کول"
+  },
+  "status": {
+    "all": "ټول",
+    "active": "فعال",
+    "paused": "درېدلی",
+    "completed": "بشپړ شوی",
+    "archived": "ارشيف شوی",
+    "deleted": "خارجه شوی"
+  },
+    "notFound": {
+    "title": "هدف شتون نه لري!",
+    "subtitle": "هغه هدف چې تاسو یې لټوئ، شتون نلري او يا هم له منځه تللی دی.",
+     "back": "بېرته شاته لاړ شئ"
+  }
+}

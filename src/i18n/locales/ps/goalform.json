@@ -1,0 +1,83 @@
+{
+  "title": {
+    "create": "هدف جوړ کړئ",
+    "edit": "هدف سم کړئ"
+  },
+  "subtitle": {
+    "create": "یو نوی هدف اضافه کړئ او پرمختګ تعقیب کړئ.",
+    "edit": "د خپل هدف معلومات تازه کړئ."
+  },
+
+  "fields": {
+    "title": "سرلیک",
+    "category": "کټګوري",
+    "type": "د هدف ډول",
+    "target": "هدف",
+    "startDate": "د پیل نېټه",
+    "endDate": "د پای نېټه",
+    "deadline": "وروستۍ نېټه",
+    "startTime": "د پیل وخت",
+    "endTime": "د پای وخت",
+    "icon": "نښه",
+    "color": "رنګ",
+    "notes": "یادښتونه"
+  },
+
+  "types": {
+    "daily": "ورځنی",
+    "count": "شمېر",
+    "time": "وخت"
+  },
+
+  "sections": {
+    "customizeTitle": "خپل هدف تنظیم کړئ",
+    "customizeSubtitle": "اختیاري تنظیمات د هدف لپاره."
+  },
+
+  "actions": {
+    "submit": "هدف خوندي کړئ",
+    "cancel": "لغوه",
+    "editGoal": "هدف سمول"
+  },
+
+  "validation": {
+    "titleRequired": "سرلیک اړین دی",
+    "categoryRequired": "کټګوري اړینه ده",
+    "typeRequired": "د هدف ډول اړین دی",
+    "targetRequired": "هدف اړین دی",
+    "targetMin": "هدف باید لږ تر لږه ۱ وي",
+
+    "startDateRequired": "د پیل نېټه اړینه ده",
+    "endDateRequired": "د پای نېټه اړینه ده",
+    "deadlineRequired": "وروستۍ نېټه اړینه ده",
+
+    "startAfterDeadline": "د پیل نېټه د وروستۍ نېټې وروسته نشي کېدای",
+    "startAfterEnd": "د پیل نېټه د پای نېټې وروسته نشي کېدای",
+
+    "endBeforeStart": "د پای نېټه د پیل نه مخکې نشي کېدای",
+    "endBeforeDeadline": "د پای نېټه د وروستۍ نېټې نه مخکې نشي کېدای",
+
+    "deadlineBeforeStart": "وروستۍ نېټه د پیل نه مخکې نشي کېدای",
+    "deadlineAfterEnd": "وروستۍ نېټه د پای نه وروسته نشي کېدای"
+  },
+
+  "preview": {
+    "title": "مخکتنه",
+    "noTitle": "د هدف نوم..."
+  },
+  "tips": {
+    "title": "لارښوونې",
+    "tip1": "خپل هدف مشخص کړئ",
+    "tip2": "واقعي هدف وټاکئ",
+    "tip3": "هره ورځ دوام وکړئ"
+  },
+  "reminder": {
+      "title": "یادونه ",
+      "subtitle": "د خپل هدف سره د دوام لپاره یادونې فعال کړئ.",
+      "label": "د یادونې وخت",
+      "errorRequired": "مهرباني وکړئ د یادونې وخت وټاکئ",
+      "helperDisabled": "د وخت غوره کولو لپاره یادونه فعاله کړئ",
+      "helperEnabled": "هغه وخت وټاکئ چې تاسو غواړئ در په یاد شي"
+    }
+
+}

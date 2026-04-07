@@ -1,0 +1,75 @@
+{
+
+  "header": {
+    "description": "د دې هدف پرمختګ تعقیب کړئ، جزیات وګورئ او مدیریت یې کړئ.",
+    "back": "بېرته",
+    "edit": "هدف سمول"
+  },
+
+  "types": {
+    "daily": "ورځنی",
+    "count": "شمېر",
+    "time": "وخت"
+  },
+
+  "labels": {
+    "target": "هدف: {{value}}"
+  },
+
+  "stats": {
+    "progress": "پرمختګ",
+    "remaining": "پاتې",
+    "logs": "ریکارډونه"
+  },
+
+  "overview": {
+    "title": "د پرمختګ عمومي کتنه",
+    "complete": "{{percent}}%",
+    "progressText": "{{progress}} / {{target}} ({{unit}})"
+  },
+
+  "units": {
+    "time": "دقیقې",
+    "count": "واحدونه"
+  },
+
+  "meta": {
+    "created": "جوړ شوی",
+    "updated": "تازه شوی",
+    "logs": "ریکارډونه"
+  },
+
+  "sections": {
+    "dates": "نېټې",
+    "appearance": "بڼه",
+    "notes": "یادښتونه"
+  },
+
+  "dates": {
+    "start": "پیل",
+    "end": "پای",
+    "deadline": "وروستۍ نېټه",
+    "startTime": "د پیل وخت",
+    "endTime": "د پای وخت"
+  },
+
+  "appearance": {
+    "icon": "نښه"
+  },
+
+  "notes": {
+    "empty": "تر اوسه یادښت نشته."
+  },
+
+  "actions": {
+    "progress": " پرمختګ",
+    "pause": "ودرول",
+    "resume": "بیا پیل",
+    "delete": "ړنګول"
+  },
+
+  "delete": {
+    "title": "ایا تاسو ډاډه یاست چې دا هدف ړنګ کړئ؟",
+    "message": "ستاسو هدف به کثافاتو ته ولېږدول شي."
+  }
+}

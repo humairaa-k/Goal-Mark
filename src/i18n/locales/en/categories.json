@@ -1,0 +1,78 @@
+{
+  "title": "Categories",
+  "subtitle": "Organize your goals into categories and quickly find related goals.",
+
+  "actions": {
+    "overview": "Overview",
+    "newCategory": "New Category",
+    "createCategory": "Create Category"
+  },
+
+  "stats": {
+    "totalCategories": "Total Categories",
+    "totalGoals": "Total Goals",
+    "completedGoals": "Completed Goals",
+    "mostActive": "Most Active"
+  },
+
+  "empty": {
+    "title": "No categories yet",
+    "subtitle": "Create categories to organize your goals."
+  },
+
+  "charts": {
+    "comparison": "Category Comparison",
+    "avgProgress": "Avg Progress: {{value}}%",
+    "progress": "Progress",
+    "categoryLabel": "Category: {{name}}",
+    "contribution": "Progress Contribution"
+  },
+
+  "list": {
+    "title": "All Categories"
+  },
+
+  "delete": {
+    "title": "Delete this category?",
+    "message": "This category and their goals will be removed."
+  },
+  
+  "card": {
+    "goals": "{{count}} goals",
+    "completed": "{{count}} completed",
+    "progress": "{{value}}%",
+    "viewGoals": "View Goals",
+    "edit": "Edit",
+    "tooltips": {
+      "edit": "Edit Category",
+      "delete": "Delete Category"
+    }
+  },
+
+  "form": {
+    "createTitle": "Create Category",
+    "editTitle": "Edit Category",
+
+    "fields": {
+      "name": "Name",
+      "color": "Color",
+      "icon": "Icon (name)"
+    },
+
+    "helper": {
+      "color": "Pick a color for this category",
+      "icon": "You can keep 'folder' or type an icon name"
+    },
+
+    "actions": {
+      "cancel": "Cancel",
+      "create": "Create",
+      "save": "Save"
+    },
+
+    "validation": {
+      "required": "Name is required",
+      "duplicate": "Category already exists"
+    }
+  }
+}

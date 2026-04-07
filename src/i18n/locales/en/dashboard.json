@@ -1,0 +1,43 @@
+{
+  "header": {
+      "welcome": "Welcome back, ",
+      "title": "Claim Your Achievements",
+      "subtitle": "Track your milestones and plant your flag on every objective today.",
+      "newGoal": "New Goal",
+      "viewGoals": "View All Goals"
+    },
+    "activeGoals": {
+      "title": "Active Goals",
+      "description": "Track progress, update status, and manage your goals from here.",
+      "noGoalsTitle": "No goals yet",
+      "noGoalsDesc": "Create your first goal to start building progress.",
+      "goalsLabel": "{{count}} goals"
+    },
+    "completedGoals": {
+      "title": "Completed Goals Preview",
+      "description": "Recently completed goals with quick access to the archive.",
+      "noGoalsTitle": "No completed goals yet",
+      "noGoalsDesc": "Finish a goal and it will show up here.",
+      "openArchive": "Open Archive"
+    },
+    "stats": {
+      "overallCompletion": "Overall completion",
+      "completedGoals": "Completed goals",
+      "currentStreak": "Current streak",
+      "xpAndLevel": "XP and level",
+      "daysInARow": "Days in a row",
+      "goalsFinished": "Goals finished so far"
+    },
+    "buttons": {
+      "createGoal": "Create Goal"
+    },
+    "streak": {
+      "title": "{{count}} day streak",
+      "messages": {
+        "start": "Start your streak today 💪",
+        "goodStart": "Good start! Keep going 🔥",
+        "onFire": "You're on fire 🔥🔥",
+        "unstoppable": "Unstoppable 🚀"
+      }
+    }
+  }

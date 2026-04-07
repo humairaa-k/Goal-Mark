@@ -1,0 +1,27 @@
+{
+    "subtitle": "دا هدف تعقیب او مدیریت کړئ",
+    "status": {
+      "active": "فعال",
+      "paused": "درول شوی",
+      "completed": "بشپړ شوی"
+    },
+    "type": {
+      "daily": "ورځنی",
+      "count": "شمېر",
+      "time": "وخت"
+    },
+    "target": "هدف: {{target}}",
+    "progress": "{{progress}} / {{target}} پرمختګ {{unit}}",
+    "complete": "{{percent}}٪ بشپړ شوی",
+    "start": "پیل",
+    "end": "پای",
+    "deadline": "وروستۍ نېټه",
+    "logs": "ریکارډونه",
+    "actions": {
+      "details": "د هدف جزئیات",
+      "progress": "پرمختګ",
+      "pause": "ودرول",
+      "resume": "بیا پیل",
+      "delete": "حذف"
+    }
+  }

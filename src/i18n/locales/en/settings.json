@@ -1,0 +1,20 @@
+{
+  "settings": "Settings",
+  "subtitle": "Review your preferences and customize your experience.",
+
+  "appearance": "Appearance",
+  "darkMode": "Dark Mode",
+  "darkModeSubtitle": "Switch between light and dark theme",
+  "typography": "Typography",
+  "fontStyle": "Font style",
+  "fontStyleSubtitle": "Choose the font used across the app interface",
+  "resetPreferences": "Reset preferences",
+
+  "language": "Language",
+  "languageSubtitle": "Choose your preferred language",
+
+  "languages": {
+    "en": "English",
+    "ps": "Pashto"
+  }
+}

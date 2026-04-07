@@ -1,0 +1,75 @@
+{
+
+  "header": {
+    "description": "Track progress, view details, and manage this goal. Quick overview and actions are below.",
+    "back": "Back",
+    "edit": "Edit Goal"
+  },
+
+  "types": {
+    "daily": "Daily",
+    "count": "Count",
+    "time": "Time"
+  },
+
+  "labels": {
+    "target": "Target: {{value}}"
+  },
+
+  "stats": {
+    "progress": "Progress",
+    "remaining": "Remaining",
+    "logs": "Logs"
+  },
+
+  "overview": {
+    "title": "Progress Overview",
+    "complete": "{{percent}}%",
+    "progressText": "{{progress}} / {{target}} ({{unit}})"
+  },
+
+  "units": {
+    "time": "minutes",
+    "count": "units"
+  },
+
+  "meta": {
+    "created": "Created",
+    "updated": "Updated",
+    "logs": "Logs"
+  },
+
+  "sections": {
+    "dates": "Dates",
+    "appearance": "Appearance",
+    "notes": "Notes"
+  },
+
+  "dates": {
+    "start": "Start",
+    "end": "End",
+    "deadline": "Deadline",
+    "startTime": "Start time",
+    "endTime": "End time"
+  },
+
+  "appearance": {
+    "icon": "Icon"
+  },
+
+  "notes": {
+    "empty": "No notes yet."
+  },
+
+  "actions": {
+    "progress": " Progress",
+    "pause": "Pause",
+    "resume": "Resume",
+    "delete": "Delete"
+  },
+
+  "delete": {
+    "title": "Are you sure you want to delete this goal?",
+    "message": "Your goal will move to bin."
+  }
+}
