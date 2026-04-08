@@ -1,6 +1,6 @@
 import { RouterProvider } from 'react-router-dom';
 import { useContext, useEffect, useRef } from 'react';
-import CircleLoader from './ui-component/extended/circleLoader';
+import CircleLoader from './ui-component/extended/CircleLoader';
 
 // routing
 import router from 'routes';
