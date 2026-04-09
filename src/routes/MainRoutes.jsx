@@ -14,7 +14,7 @@ const GoalDetails = Loadable(lazy(() => import('views/goal-tracker/GoalDetails')
 const Categories = Loadable(lazy(() => import('views/goal-tracker/Categories')));
 const Archive = Loadable(lazy(() => import('views/goal-tracker/Archive')));
 const Settings = Loadable(lazy(() => import('views/goal-tracker/Settings')));
-const NotFound = Loadable(lazy(() => import('views/goal-tracker/NotFound')));
+// const NotFound = Loadable(lazy(() => import('views/goal-tracker/NotFound')));
 
 // ==============================|| MAIN ROUTING ||============================== //
 
@@ -63,10 +63,10 @@ const MainRoutes = {
       path: 'settings',
       element: <Settings />
     },
-     {
-      path: '*',
-      element: <NotFound />
-    }
+     //  {
+//   path: '*',
+//   element: <NotFound />
+// }
   ]
 };
 
