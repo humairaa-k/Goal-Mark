@@ -1,4 +1,5 @@
 import { lazy } from 'react';
+import { createBrowserRouter } from 'react-router-dom';
 import Loadable from 'ui-component/Loadable';
 
 // routes
