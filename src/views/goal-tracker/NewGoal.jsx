@@ -8,7 +8,7 @@ import { useTranslation } from "react-i18next";
 import Grid from '@mui/material/Grid';
 import Stack from "@mui/material/Stack";
 
-import GoalPreview from '../../ui-component/goals/goalPreview';
+import GoalPreview from '../../ui-component/goals/GoalPreview';
 import TipsCard from '../../ui-component/goals/TipsCard';
 
 
