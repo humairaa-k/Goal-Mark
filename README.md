@@ -117,11 +117,7 @@ This project supports multiple languages and automatically adjusts the layout di
 ![dashboard](./src/assets/screenshot/dashboardS.png)  
 
 
-
-
-### ⚠️ Notes
-
-This project uses the Berry Free React template, which contains multiple prebuilt folders and package configurations. Only the app-specific files were modified, while template boilerplate files like package.json and Vite configs were left unchanged to ensure stability.  
+ 
 
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
